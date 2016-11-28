@@ -28,6 +28,7 @@ Via **Command line** instructions
 
 ### Using the apps
 
-3. Entry instructions
+1. Set you value by visiting: `http://localhost:4000/set?[insert_key_name_here]=[inset_somevalue_here]`
 
-4. Retrieval instructions
+
+2. Get you value by visiting: `http://localhost:4000/get?key=[inset_somevalue_here]`
