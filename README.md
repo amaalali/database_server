@@ -31,4 +31,4 @@ Via **Command line** instructions
 1. Set you value by visiting: `http://localhost:4000/set?[insert_key_name_here]=[inset_somevalue_here]`
 
 
-2. Get you value by visiting: `http://localhost:4000/get?key=[inset_somevalue_here]`
+2. Get you value by visiting: `http://localhost:4000/get?key=[inset_key_name_here]`
