@@ -1,12 +1,16 @@
 # DatabaseServer
 
 ## Challenge Description  
+By tasks
 
-```
-"...write a program that runs a server that is accessible on http://localhost:4000/. When your server receives a request on http://localhost:4000/set?somekey=somevalue it should store the passed key and value in memory. When it receives a request on http://localhost:4000/get?key=somekey it should return the value stored at somekey.
+1. "...write a program that runs a server that is accessible on http://localhost:4000/.
 
-If you finish, you can work on saving the data to a file."
-```
+2. "When your server receives a request on http://localhost:4000/set?somekey=somevalue it should store the passed key and value in memory."
+
+3. "When it receives a request on http://localhost:4000/get?key=somekey it should return the value stored at somekey."
+
+4. "If you finish, you can work on saving the data to a file."
+
 
 ## Instructions
 
@@ -22,7 +26,7 @@ Via **Command line** instructions
    ruby app.rb
    ```
 
-### Using the app
+### Using the apps
 
 3. Entry instructions
 
