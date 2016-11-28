@@ -9,10 +9,11 @@ feature 'DatabaseServer' do
   end
 
   feature 'Input' do
-    scenario '' do
+    scenario 'page can be accessed' do
       visit 'http://localhost:4000/set?somekey=somevalue'
       expect(page.status_code).to be(200)
     end
-  end
 
+    
+  end
 end
